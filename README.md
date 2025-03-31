@@ -39,19 +39,19 @@
 
 ## 🌟 Featured Projects
 
-### 1. [GrantHub](https://github.com/yourusername/granthub)
+### 1. [GrantHub](https://github.com/Tejas2005SG/granthub)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![React](https://img.shields.io/badge/-React-61DAFB) ![Express.js](https://img.shields.io/badge/-Express.js-000000) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4)  
 A platform that provides business grants by fetching relevant details using Perplexity AI. Developed and managed the backend entirely from scratch.
 
-### 2. [Drug Discovery Platform](https://github.com/yourusername/drug-discovery)
+### 2. [Drug Discovery Platform](https://github.com/Tejas2005SG/drug-discovery)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![React](https://img.shields.io/badge/-React-61DAFB) ![Express.js](https://img.shields.io/badge/-Express.js-000000) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101)  
 Generative AI-powered Drug Discovery Assistant integrating Gemini AI, Google Alphafold API, Grok AI, and NVIDIA models to streamline drug candidate identification.
 
-### 3. [E-commerce Website](https://github.com/yourusername/ecommerce)
+### 3. [E-commerce Website](https://github.com/Tejas2005SG/ecommerce)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Redis](https://img.shields.io/badge/-Redis-DC382D) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![React](https://img.shields.io/badge/-React-61DAFB) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5)  
 Full-featured e-commerce platform with Stripe payments, admin dashboard, and dual database (MongoDB + Redis) architecture.
 
-### 4. [Authentication System](https://github.com/yourusername/auth-system)
+### 4. [Authentication System](https://github.com/Tejas2005SG/auth-system)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![React](https://img.shields.io/badge/-React-61DAFB) ![Express.js](https://img.shields.io/badge/-Express.js-000000)  
 Secure authentication system with email verification, password reset, and welcome emails using Mailtrap.
 
@@ -59,8 +59,8 @@ Secure authentication system with email verification, password reset, and welcom
 - Smart India Hackathon-2024 Winner Certificate
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-link) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](your-github-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-bhangale/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Tejas2005SG)
 
 ---
 
-⭐️ From [Tejas Bhangale](https://github.com/yourusername)
+⭐️ From [Tejas Bhangale](https://github.com/Tejas2005SG)
